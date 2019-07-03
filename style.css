@@ -1,0 +1,30 @@
+div {
+    border: 3px solid black;
+    padding: 30px;
+   }
+ td: {
+	color: #666699
+}
+ td:hover  {
+    background: #9999CC; 
+	color:#000033;
+	
+  }
+
+
+
+body {
+	background-color: #6666FF
+}
+
+
+tr: {
+	opacity: .1
+	
+	
+}
+
+
+
+
+
