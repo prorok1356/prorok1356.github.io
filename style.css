@@ -1,13 +1,14 @@
 div {
     border: 3px solid black;
     padding: 30px;
+	background: #7d7dba
    }
  td: {
 	color: #666699
 }
  td:hover  {
     background: #9999CC; 
-	color:#000033;
+	color:#5d21f4;
 	
   }
 
@@ -19,10 +20,8 @@ body {
 
 
 tr: {
-	opacity: .1
-	
-	
-}
+	opacity: .7
+	}
 
 
 
