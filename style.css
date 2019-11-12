@@ -22,7 +22,19 @@ body {
 tr: {
 	opacity: .7
 	}
-
+div#pam {
+	border: 3px solid red;
+    padding: 30px;
+	background: #D8BFD8;
+	font-size: 150%;
+	font-variant: small-caps;
+	border-radius: 50px;
+	
+	
+	
+	
+	
+}
 
 
 
